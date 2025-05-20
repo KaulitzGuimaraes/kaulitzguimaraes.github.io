@@ -2,34 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hi, I&#39;m Kaulitz 👋 on Kaulitz Guimarães</title>
-    <link>https://kaulitzguimaraes.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Hi, I&#39;m Kaulitz 👋 on Kaulitz Guimarães</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>en-us</language>
-    <atom:link href="https://kaulitzguimaraes.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>https://kaulitzguimaraes.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kaulitzguimaraes.github.io/about/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m Kaulitz Guimarães, a software developer with a strong background in &lt;strong&gt;backend engineering&lt;/strong&gt;, &lt;strong&gt;automation&lt;/strong&gt;, and &lt;strong&gt;cloud infrastructure&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;I spent 7 years at IBM working on internal platforms, audit automation tools, and developer productivity solutions.&lt;br&gt;
-Recently, I&amp;rsquo;ve been expanding my skills in &lt;strong&gt;AWS&lt;/strong&gt; while building open and personal tools that solve real problems.&lt;/p&gt;
-&lt;p&gt;I’m passionate about writing clean code, collaborating across teams, and building things that last.&lt;/p&gt;
-&lt;p&gt;In my free time, I enjoy music, learning languages and traveling across the world 🌎.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>https://kaulitzguimaraes.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kaulitzguimaraes.github.io/contact/</guid>
-      <description>&lt;p&gt;Feel free to reach out!&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;📧 Email: &lt;a href=&#34;mailto:kaulitzguimaraes@hotmail.com&#34;&gt;kaulitzguimaraes@hotmail.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💼 &lt;a href=&#34;https://linkedin.com/in/kaulitz-guimar%C3%A3es-27561112a&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💻 &lt;a href=&#34;https://github.com/kaulitzguimaraes&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I’m happy to chat about new opportunities, open-source projects, or just geek out over code and music 🎶&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
